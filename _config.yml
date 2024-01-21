@@ -1,10 +1,10 @@
 # Site Specific Configuration
-name: LightSpeed
-description: A simple Jekyll theme
-url: https://example.com
-author: tajacks
-timezone: America/Toronto
-timezone_short: ET
+name: Lightspeed
+description: Personal blog site
+url: mr-top.github.io
+author: Shuka
+timezone: UK
+timezone_short: GMT
 
 # Keywords
 keywords: ['seo', 'key', 'words']

@@ -1,27 +1,17 @@
 ---
 layout: default
-title: LightSpeed Contact
+title: Shuka's Home
 ---
 
 ## About
-LightSpeed is a lightweight Jekyll theme designed to be privacy-friendly (~~no~~ _very little_ JavaScript), fast, and
-excellent at delivering content.
+Hello! I am a aspiring software developer and this is a blog site that I've set up for my self to document my progress.
 
-## About, Further
-This second section demonstrates spacing. CSS is kept to a minimum with minor styling
-for site colours and spacing. prism.js is used for code styling.    
 <br>
-Here's a new paragraph for you.  
-
-## Features
-- Pagination
-    - Posts
-    - Categories
-- Posts
-- RSS
-- Syntax highlighting
-- Basic Mobile Support
-- SEO Plugin
+## Some interesting facts about me.
+- Mongolian
+- Open University student ( as of 2024 )
+- Launch School student ( last time I checked )
+- Beginner gym goer
 
 ## Contact
-Email me, [tom@tomjack.ca](mailto:tom@tomjack.ca).
+Email me, [tserenlkhagvaganbold@gmail.com](mailto:tserenlkhagvaganbold@gmail.com).
